@@ -7,7 +7,7 @@ export interface Mentor {
   diffStars: string;
   personality: string;
   quote: string;
-  avatarImage: string; // generated image or custom URL
+  avatarImage: string;
   avatarFallbackEmoji: string;
   themeClass: string;
   color: string;
@@ -90,7 +90,7 @@ export interface LeaderboardUser {
   badge: string;
   avatar: string;
   isCurrentUser: boolean;
-  rankChange: number; // positive = moved up, 0 = same
+  rankChange: number;
 }
 
 export interface ChatMessage {
