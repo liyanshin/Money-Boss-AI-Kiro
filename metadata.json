@@ -1,0 +1,8 @@
+{
+  "name": "Money Boss AI",
+  "description": "Gamified mobile finance application with Asian-parent mentor system, budget tracking, rewards, AI Money Coach powered by Amazon Bedrock, and leaderboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_AMAZON_BEDROCK_API"],
+  "builtWith": "Kiro IDE",
+  "provider": "Amazon Web Services"
+}
